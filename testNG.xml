@@ -1,0 +1,10 @@
+<suite name="Entrata">
+
+
+    <test name="Login page">
+        <classes>
+            <class name="testsrc.BaseClass"/>
+
+        </classes>
+    </test>
+</suite>
