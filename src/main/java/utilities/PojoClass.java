@@ -1,5 +1,6 @@
 package utilities;
 
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
 /*
@@ -23,5 +24,10 @@ getDriver() returns the driver return type of this methode is WebDriver
     public static void setDriver(WebDriver ldriver) {
         driver = ldriver;
     }
+
+    public static void acceptCookies() {
+        driver.findElement(By.id("rcc-confirm-button")).click();   // click on accept cookies button
+    }
+
 
 }
