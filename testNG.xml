@@ -3,8 +3,7 @@
 
     <test name="Login page">
         <classes>
-            <class name="testsrc.BaseClass"/>
-
+            <class name="testsrc.EntrataTestScript"/>
         </classes>
     </test>
 </suite>

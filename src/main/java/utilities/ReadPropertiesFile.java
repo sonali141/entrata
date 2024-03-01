@@ -31,26 +31,4 @@ public static String getURL()
     return myurl;
 
 }
-
-public static String getUsername()
-{
-    String Uname= ReadPropertiesFile.readPropertyFile("username");
-  //  System.out.println(Uname);
-    return Uname;
-}
-
-    public static String getpassword()
-    {
-        String password= ReadPropertiesFile.readPropertyFile("password");
-     //   System.out.println(password);
-        return password;
-    }
-
-  /*  public static void main(String[] args) {
-        readPropertyFile("URL");
-        getURL();
-        getUsername();
-        getpassword();
-    }*/
-
 }

@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="299e4fbf-e308-4d61-81b5-ba6822e2f68c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Driver/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/entrata/locators/EntrataLocators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configPropertyRepo/GlobalRepo.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utilities/PojoClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utilities/ReadPropertiesFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testsrc/BaseClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testsrc/TestScripts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testNG.xml" afterDir="false" />
-    </list>
+    <list default="true" id="299e4fbf-e308-4d61-81b5-ba6822e2f68c" name="Changes" comment="Merge remote-tracking branch 'origin/feature-ent-001' into feature-ent-001" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +18,18 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -52,19 +48,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Sonali/IdeaProjects/InvoicePlane&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/Sonali/IdeaProjects/Selenium",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "module"
+    ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\sonal\IdeaProjects\Entrata_Project\src\test\testsrc" />
@@ -77,8 +78,8 @@
     </key>
   </component>
   <component name="RunManager" selected="TestNG.TestNGRun">
-    <configuration name="BaseClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testsrc.BaseClass" />
+    <configuration name="EntrataTestScript" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testsrc.EntrataTestScript" />
       <module name="Entrata_Project" />
       <extension name="coverage">
         <pattern>
@@ -107,7 +108,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BaseClass (4)" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="EntrataTestScript" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Entrata_Project" />
       <extension name="coverage">
         <pattern>
@@ -116,7 +117,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="testsrc" />
-      <option name="MAIN_CLASS_NAME" value="testsrc.BaseClass" />
+      <option name="MAIN_CLASS_NAME" value="testsrc.EntrataTestScript" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -124,7 +125,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BaseClass" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="EntrataTestScript" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Entrata_Project" />
       <extension name="coverage">
         <pattern>
@@ -133,7 +134,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="testsrc" />
-      <option name="MAIN_CLASS_NAME" value="testsrc.BaseClass" />
+      <option name="MAIN_CLASS_NAME" value="testsrc.EntrataTestScript" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -141,7 +142,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BaseClass.stratApplication" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="EntrataTestScript" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Entrata_Project" />
       <extension name="coverage">
         <pattern>
@@ -150,8 +151,25 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="testsrc" />
-      <option name="MAIN_CLASS_NAME" value="testsrc.BaseClass" />
-      <option name="METHOD_NAME" value="stratApplication" />
+      <option name="MAIN_CLASS_NAME" value="testsrc.EntrataTestScript" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EntrataTestScript.formInteraction" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Entrata_Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testsrc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testsrc" />
+      <option name="MAIN_CLASS_NAME" value="testsrc.EntrataTestScript" />
+      <option name="METHOD_NAME" value="formInteraction" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -159,7 +177,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestNGRun" type="TestNG">
+    <configuration name="TestNGRun" type="TestNG" editBeforeRun="true">
       <module name="Entrata_Project" />
       <shortenClasspath name="NONE" />
       <useClassPathOnly />
@@ -174,6 +192,7 @@
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="moduleWithDependencies" />
       </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
       <option name="PROPERTIES_FILE" value="" />
       <properties />
       <listeners />
@@ -182,20 +201,18 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BaseClass" />
+      <item itemvalue="Application.EntrataTestScript" />
       <item itemvalue="TestNG.TestNGRun" />
-      <item itemvalue="TestNG.BaseClass" />
-      <item itemvalue="TestNG.BaseClass.stratApplication" />
-      <item itemvalue="TestNG.BaseClass (3)" />
-      <item itemvalue="TestNG.BaseClass (4)" />
+      <item itemvalue="TestNG.EntrataTestScript" />
+      <item itemvalue="TestNG.EntrataTestScript.formInteraction" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.BaseClass" />
-        <item itemvalue="Application.BaseClass" />
-        <item itemvalue="TestNG.BaseClass (4)" />
-        <item itemvalue="TestNG.BaseClass (3)" />
-        <item itemvalue="TestNG.BaseClass.stratApplication" />
+        <item itemvalue="TestNG.EntrataTestScript.formInteraction" />
+        <item itemvalue="TestNG.EntrataTestScript" />
+        <item itemvalue="Application.EntrataTestScript" />
+        <item itemvalue="TestNG.EntrataTestScript" />
+        <item itemvalue="TestNG.EntrataTestScript" />
       </list>
     </recent_temporary>
   </component>
@@ -208,17 +225,93 @@
       <option name="presentableId" value="Default" />
       <updated>1709189759273</updated>
     </task>
+    <task id="LOCAL-00001" summary="Entrata code">
+      <created>1709208718618</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709208718618</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Entrata code">
+      <created>1709282615219</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709282615219</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Entrata code">
+      <created>1709282655928</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1709282655928</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Entrata code">
+      <created>1709282673980</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1709282673980</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Merge remote-tracking branch 'origin/feature-ent-001' into feature-ent-001">
+      <created>1709282726865</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1709282726865</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Merge remote-tracking branch 'origin/feature-ent-001' into feature-ent-001">
+      <created>1709282750428</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1709282750428</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Merge remote-tracking branch 'origin/feature-ent-001' into feature-ent-001">
+      <created>1709282798235</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1709282798235</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Merge remote-tracking branch 'origin/feature-ent-001' into feature-ent-001">
+      <created>1709282904419</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1709282904419</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Merge remote-tracking branch 'origin/feature-ent-001' into feature-ent-001">
+      <created>1709282931881</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1709282931881</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Merge remote-tracking branch 'origin/feature-ent-001' into feature-ent-001">
+      <created>1709283007713</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1709283007713</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/testsrc/BaseClass.java</url>
-          <line>56</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Entrata code" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/feature-ent-001' into feature-ent-001" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/feature-ent-001' into feature-ent-001" />
   </component>
 </project>
