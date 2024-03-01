@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="299e4fbf-e308-4d61-81b5-ba6822e2f68c" name="Changes" comment="Entrata code">
-      <change afterPath="$PROJECT_DIR$/src/test/java/testsrc/EntrataTestScript.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/entrata/locators/EntrataLocators.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/entrata/locators/EntrataLocators.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/configPropertyRepo/GlobalRepo.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configPropertyRepo/GlobalRepo.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/utilities/PojoClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utilities/PojoClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/utilities/ReadPropertiesFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utilities/ReadPropertiesFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testsrc/BaseClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testsrc/TestScripts.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testNG.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testNG.xml" afterDir="false" />
-    </list>
+    <list default="true" id="299e4fbf-e308-4d61-81b5-ba6822e2f68c" name="Changes" comment="Merge remote-tracking branch 'origin/feature-ent-001' into feature-ent-001" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="PUSH_TAGS">
       <GitPushTagMode>
         <option name="argument" value="--follow-tags" />
@@ -243,11 +232,86 @@
       <option name="project" value="LOCAL" />
       <updated>1709208718618</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Entrata code">
+      <created>1709282615219</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709282615219</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Entrata code">
+      <created>1709282655928</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1709282655928</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Entrata code">
+      <created>1709282673980</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1709282673980</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Merge remote-tracking branch 'origin/feature-ent-001' into feature-ent-001">
+      <created>1709282726865</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1709282726865</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Merge remote-tracking branch 'origin/feature-ent-001' into feature-ent-001">
+      <created>1709282750428</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1709282750428</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Merge remote-tracking branch 'origin/feature-ent-001' into feature-ent-001">
+      <created>1709282798235</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1709282798235</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Merge remote-tracking branch 'origin/feature-ent-001' into feature-ent-001">
+      <created>1709282904419</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1709282904419</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Merge remote-tracking branch 'origin/feature-ent-001' into feature-ent-001">
+      <created>1709282931881</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1709282931881</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Merge remote-tracking branch 'origin/feature-ent-001' into feature-ent-001">
+      <created>1709283007713</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1709283007713</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Entrata code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Entrata code" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/feature-ent-001' into feature-ent-001" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/feature-ent-001' into feature-ent-001" />
   </component>
 </project>
